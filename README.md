@@ -3,9 +3,9 @@ Assumpition
 
 - Initial Brand & Category informaiton exists preloaded
 - Not ThreadSafe, Assumption is single threded.
-- Asumming input file is provided as epected and no errors . Error handling and input file validation have not been done.
+- Asumming input file is provided as expected and no errors . Error handling and input file validation have not been done.
 
-Please note the system is built to accomodate the current requirement at a broder design perspective which can be extended or consumed in a better way if it needs to be integrated to external system.
+Please note the system is built to accomodate the current requirement at a broader design perspective which can be extended or consumed in a better way if it needs to be integrated to external system.
 Considering the timeframe, i have kept the system simple , Exception handling, logging,  Multithreading, Any floating computation are kept out of scope
 
 Design of discount computation
